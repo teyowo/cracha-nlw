@@ -17,10 +17,9 @@ body {
 }
 
 main {
-  background: url(images/background.svg) no-repeat center/cover;
-  width: 100vw;
+  background: url(images_nlw/background.svg);
+  width: 375px;
   height: 812px;
- 
 }
 
 .container {
